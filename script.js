@@ -1,4 +1,4 @@
-const gug = document.getElementById('hamburger');
+const gug = document.getElementById('gug');
 const navContainer = document.getElementById('navContainer');
 
 gug.addEventListener('click', () => {
